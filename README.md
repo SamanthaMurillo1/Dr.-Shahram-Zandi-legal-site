@@ -1,5 +1,7 @@
-#Legal Website for Dr. Shahram Zandi
+📄 Legal Website for Dr. Shahram Zandi
+
 link to the website : https://www.sclegalsolutions.com/ 
+
 This is a professional website I designed for Dr. Shahram Zandi, a distinguished legal professional based in Ontario. The website was built using Wix with the goal of enhancing Dr. Zandi’s online presence, making his services more accessible, and ultimately helping him gain new clients. Since its launch, the website has contributed to improving client outreach and establishing a credible online platform for his legal practice.
 
 👨‍⚖️ About Dr. Shahram Zandi
